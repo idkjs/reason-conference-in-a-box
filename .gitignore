@@ -44,3 +44,4 @@ web-report/
 .DS_Store
 .bsb.lock
 lib/bs
+lib/src
