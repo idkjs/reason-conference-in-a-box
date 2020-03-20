@@ -11,6 +11,14 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo/vector-icons": "^10.0.6",
+    "@glennsl/bs-json": "5.0.1",
+    "@aws-amplify/api": "2.1.1",
+    "@aws-amplify/core": "2.2.0",
+    "@aws-amplify/pubsub": "2.1.1",
+    "aws-amplify-react-native": "^2.2.3",
+    "aws-appsync": "3.0.2",
+    "bs-faker": "2.0.0",
     "expo": "~36.0.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
